@@ -1,0 +1,109 @@
+Restore Archived Project report for garra_rastreada
+Fri Jul 31 10:15:41 2020
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Fri Jul 31 10:15:41 2020 ;
+; Revision Name                   ; garra_rastreada                       ;
+; Top-level Entity Name           ; garra_rastreada                       ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Samuel Ducca/Documents/projeto_garra.qar' into the 'C:/Users/Samuel Ducca/Documents/projeto_garra_restored/' directory
+Info: Generated report 'garra_rastreada.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4827 megabytes
+    Info: Processing ended: Fri Jul 31 10:15:41 2020
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++--------------------------+
+; Files Restored           ;
++--------------------------+
+; File Name                ;
++--------------------------+
+; qar_info.json            ;
+; circuito_pwm.vhd         ;
+; comparador_ascii.vhd     ;
+; comparador_dist.vhd      ;
+; comparador_distancia.vhd ;
+; contador_bcd.vhd         ;
+; contador_m.vhd           ;
+; contador_updown.vhd      ;
+; contagem_mm.vhd          ;
+; deslocador_n.vhd         ;
+; detector_borda.vhd       ;
+; garra_pwm.vhd            ;
+; garra_rastreada.qpf      ;
+; garra_rastreada.qsf      ;
+; garra_rastreada.vhd      ;
+; garra_rastreada_fd.vhd   ;
+; garra_rastreada_uc.vhd   ;
+; gerador_pulso.vhd        ;
+; hex7seg.vhd              ;
+; mux_8x4_n.vhd            ;
+; rastreador.vhd           ;
+; rastreador_fd.vhd        ;
+; rastreador_uc.vhd        ;
+; registrador_n.vhd        ;
+; rom_generic.vhd          ;
+; rx_serial.vhd            ;
+; rx_serial_fd.vhd         ;
+; rx_serial_uc.vhd         ;
+; sensor_distancia.vhd     ;
+; sensor_distancia_fd.vhd  ;
+; sensor_distancia_uc.vhd  ;
+; testador_paridade.vhd    ;
+; tx_serial_base_fd.vhd    ;
+; tx_serial_base_uc.vhd    ;
+; tx_serial_tick.vhd       ;
+; assignment_defaults.qdf  ;
++--------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
